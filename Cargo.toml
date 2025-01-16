@@ -1,0 +1,7 @@
+[package]
+name = "rust_google_auth"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+google-authenticator = "0.4.2"
